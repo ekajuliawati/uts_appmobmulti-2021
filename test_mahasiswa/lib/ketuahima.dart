@@ -17,7 +17,7 @@ class KetuaHima extends Mahasiswa {
 
   @override
   void info() {
-    print('Biodata Ketua Himpunan Mahasiswa Teknik Informatika');
+    print('Biodata Ketua Himpunan 2021');
     print('NRP \t\t: ${getNrp()}');
     print('Nama \t\t: ${getNama()}');
     print('Jurusan \t: ${getJurusan()}');
